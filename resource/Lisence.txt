@@ -1,0 +1,11 @@
+https://casual-effects.com/data/
+
+[bunny.obj]
+Updated: 2017-08-06
+License: Stanford Scan
+© 1996 Stanford University
+
+[teapot.obj]
+Updated: 2011-07-27
+License: CC0
+© 1975 Martin Newell
